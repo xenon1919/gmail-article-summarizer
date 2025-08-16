@@ -1,4 +1,4 @@
 @echo off
-cd /d "C:\Users\rishi\Downloads\Langflow Workflow"
+cd /d "PASTE_YOUR_PROJECT_PATH"
 python article_summarizer_gmail.py
 pause
