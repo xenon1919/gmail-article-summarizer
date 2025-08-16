@@ -1,7 +1,7 @@
 # Gmail Article Summarizer Automation Script
 # This script runs the article summarizer and logs the results
 
-$scriptPath = "C:\Users\rishi\Downloads\Langflow Workflow"
+$scriptPath = "YOUR_PROJECT_PATH"
 $logFile = "$scriptPath\summarizer_log.txt"
 
 # Change to script directory
