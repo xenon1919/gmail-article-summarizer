@@ -2,8 +2,6 @@
 
 A **completely FREE** Python solution that automatically collects articles from the web, summarizes them using free AI alternatives, and sends beautiful email summaries to your inbox.
 
-## 💰 **100% FREE - No OpenAI Subscription Required!**
-
 This project uses:
 - **Rule-based NLP** (completely free)
 - **Hugging Face Inference API** (free tier)
